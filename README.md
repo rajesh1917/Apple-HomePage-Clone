@@ -16,6 +16,6 @@ Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > Ho
   <img src="Assets/menu.png" hight="50%" width="50%">
   </div>
   <div>
-  <img src="Assets/phone screen.png" hight="50%" width="50%" >
+  <img src="Assets/phone screen.png" hight="300" width="150" >
   </div>
 </div>
