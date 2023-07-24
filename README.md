@@ -3,7 +3,7 @@ Apple main Home page clone made only with HTML, CSS and JavaScript! 🍎.....
 
 <br>
 
-Link: 
+Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#"> </a>
 
 <img src="">
 
