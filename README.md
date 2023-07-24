@@ -3,7 +3,7 @@ Apple main Home page clone made only with HTML, CSS and JavaScript! 🍎.....
 
 <br>
 
-Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > take me to Home Page </a>
+Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > Home Page www.apple.com </a>
 
 <img src="">
 
