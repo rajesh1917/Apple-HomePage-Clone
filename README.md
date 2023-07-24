@@ -10,6 +10,15 @@ Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > Ho
 <h2>Mobile:</h2>
 <br>
 <div style="display: inline">
-  <img src="Assets/menu.png" width="calc(100%/2)">
-  <img src="Assets/phone screen.png" width="calc(100%/2)">
+  <img src="" ">
+  <img src="" width="calc(100%/2)">
+</div>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="Assets/menu.png" alt="Italy" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="Assets/phone screen.png" alt="Forest" style="width:100%">
+  </div>
 </div>
