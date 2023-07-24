@@ -1,5 +1,5 @@
 # Apple - Clone Home Page!
-Apple main page clone made only with HTML, CSS and JavaScript! 🍎.....
+Apple main Home page clone made only with HTML, CSS and JavaScript! 🍎.....
 
 <br>
 
