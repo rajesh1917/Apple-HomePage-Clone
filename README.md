@@ -5,6 +5,7 @@ Apple main Home page clone made only with HTML, CSS and JavaScript! 🍎.....
 
 Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > Home Page www.apple.com </a>
 
+<h>Desktop Screen</h>
 <img src="Assets/laptop screen.png">
 
 <h2>Mobile:</h2>
