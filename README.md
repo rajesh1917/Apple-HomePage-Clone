@@ -16,9 +16,9 @@ Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > Ho
 
 <div class="clearfix">
   <div class="img-container">
-  <img src="Assets/menu.png" alt="Italy" style="width:100%">
+  <img src="Assets/menu.png" alt="Italy" style="width:100%/4">
   </div>
   <div class="img-container">
-  <img src="Assets/phone screen.png" alt="Forest" style="width:100%">
+  <img src="Assets/phone screen.png" alt="Forest" style="width:100%/4">
   </div>
 </div>
