@@ -9,11 +9,11 @@ Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > Ho
 
 <h2>Mobile:</h2>
 <br>
-<div class="clearfix">
-  <div class="img-container">
+<div>
+  <div>
   <img src="Assets/menu.png" width="calc(100%/2)">
   </div>
-  <div class="img-container">
+  <div>
   <img src="Assets/phone screen.png" width="calc(100%/2)">
   </div>
 </div>
