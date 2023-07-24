@@ -11,23 +11,11 @@ Link: <a href="https://steady-daifuku-9aa5d4.netlify.app/#" target="_blank" > Ho
 
 <h2>Mobile:</h2>
 <br>
-
-<style>
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 50%;
-  padding: 5px;
-}
-</style>
-<div class="row">
-  <div class="column">
+<div >
+  <div>
   <img src="Assets/menu.png" hight="300" width="150">
   </div>
-  <div class="column">
+  <div>
   <img src="Assets/phone screen.png" hight="300" width="150" >
   </div>
 </div>
